@@ -1,8 +1,11 @@
 import './App.css';
+import Login from './Login-Component/Login';
 
 function App() {
   return (
-    <div className="App">React App</div>
+    <div className="App">
+      <Login/>
+    </div>
   );
 }
 
