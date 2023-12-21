@@ -2,6 +2,7 @@ import React from "react";
 import "./Login.css";
 import { loginUrl } from "../Spotify/Spotify";
 
+// login component
 function Login() {
   return <div className="login">
     <img
