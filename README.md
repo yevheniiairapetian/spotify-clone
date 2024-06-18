@@ -3,7 +3,8 @@
 This project contains a Spotify clone which is a responsive Progressive Web App designed with React and Material UI to replicate the features of Spotify - a music app. It fetches data from the [Spotify API](https://developer.spotify.com/documentation/web-api) and authorizes the user with a Google auth screen. Users can view the almost identical Spotify frontend and see the placeholder albums, artists, and song data. 
 
 Read more about:
-[Spotify API](https://developer.spotify.com/documentation/web-api)
+- [Spotify API](https://developer.spotify.com/documentation/web-api)
+- [Netlify](https://www.netlify.com/)
 
 ## Available features
 
