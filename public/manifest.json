@@ -1,8 +1,8 @@
 {
-  "name": "Better Wetter App: Weather Today",
-  "short_name": "Better Wetter App",
-  "theme_color": "whitesmoke",
-  "background_color": "#337cb4",
+  "name": "Spotify clone",
+  "short_name": "Spotify clone",
+  "theme_color": "#1db954",
+  "background_color": "#000000",
   "display": "fullScreen",
   "orientation": "portrait",
   "scope": "/",
