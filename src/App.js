@@ -51,9 +51,11 @@ function App() {
   }
 }, []);
   return (
-    <div className="App">
-    {/* if user is logged in, show player. otherwise, show login page */}
-    <Player spotify={spotify} /> : <Login />
+    <div className="app">
+      {
+        token ? <Player spotify={spotify} /> : <Login />
+      }
+
     </div>
   );
 }

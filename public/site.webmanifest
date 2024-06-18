@@ -1,0 +1,26 @@
+{
+    "name": "Spotify clone",
+    "short_name": "Spotify clone",
+    "theme_color": "#1db954",
+  "background_color": "#000000",
+    "description": "Listen to music, artists, create playlists",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": ".",
+    "icons": [
+        {
+            "src": "./mascable-icon.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any"
+          },
+        {
+            "src": "/maskable-icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+    
+  }
