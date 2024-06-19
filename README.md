@@ -53,6 +53,7 @@ Read more about:
 
 ## External API 
 As mentioned, the app relies on the external API: 
+
 [Spotify API](https://developer.spotify.com/documentation/web-api)
 
 ## Clone and Preview 
