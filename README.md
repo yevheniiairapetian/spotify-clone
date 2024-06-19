@@ -47,13 +47,13 @@ Read more about:
 - Material UI for styling
 - Material UI icons for icons
 - Reducer, Data layer
-- External API [Spotify API](https://developer.spotify.com/documentation/web-api) (for Spotify information)
+- External [Spotify API](https://developer.spotify.com/documentation/web-api) (for Spotify information)
 - Service worker for enabling PWA functionality
 - [Netlify](https://www.netlify.com/) for deployment
 
 ## External API 
 As mentioned, the app relies on the external API: 
-External API [Spotify API](https://developer.spotify.com/documentation/web-api)
+[Spotify API](https://developer.spotify.com/documentation/web-api)
 
 ## Clone and Preview 
 1. To clone the app use the following command:
