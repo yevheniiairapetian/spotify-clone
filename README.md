@@ -97,4 +97,4 @@ Your app is ready to be deployed!
 The app is live at [Netlify](https://spoti-fy-clone.netlify.app/)
 
 ## Contact:
-Feel free to contact me via[ LinkedIn](https://www.linkedin.com/in/yevheniiairapetian/) or [email](mailto:contact@yevheniiairapetian.com) or via the contact information on my [portfolio](https://yevheniiairapetian.com/#/contact) 
+Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/yevheniiairapetian/) or [email](mailto:contact@yevheniiairapetian.com) or via the contact information on my [portfolio](https://yevheniiairapetian.com/#/contact) 
