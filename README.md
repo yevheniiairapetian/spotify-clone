@@ -26,7 +26,8 @@ When installed, it allows to:
 - Have a smaller size than a native desktop app
 - Access the app quickly via a mobile home screen, a Windows/Mac taskbar, etc
 
-Read more about the Progressive Web Apps [here](https://www.itaims.com/blog/benefits-of-progressive-web-apps-pwa-advantages-and-disadvantages)
+Read more about:
+- [PWA Apps](https://www.itaims.com/blog/benefits-of-progressive-web-apps-pwa-advantages-and-disadvantages)
 
 ## Technologies Used
 - React
